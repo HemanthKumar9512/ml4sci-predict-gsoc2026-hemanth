@@ -1,0 +1,4 @@
+phenotype,n_patients,agatston_score,n_lesions,calcium_volume_mm3,calcium_mean_hu,n_connected_components,mean_inter_lesion_dist_mm,has_rca,has_lad,has_lcx
+0,19,754.51,9.84,3691.98,189.02,73.16,83.43,0.53,0.95,0.58
+1,39,1143.62,12.77,7120.94,246.98,77.31,87.53,0.64,0.87,0.56
+2,42,1115.92,11.95,2753.99,254.37,43.05,98.14,0.57,0.86,0.48
